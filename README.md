@@ -8,6 +8,12 @@ The Enhanced GitHub Theme for GitHub.com on Safari, but it provides special feat
 
 ## About
 
+## Installation
+
+You can get the ZIP file from the [release page](https://github.com/aeilot/github-enhancing-safari/releases). Unarchive and place it in the `/Applications` folder.
+
+> Downloading from Mac APP Store is currently not available.
+
 ## Contributing
 
 Contributing is always welcomed! You can add localizations and features to the project, or just simply submit an issue!
