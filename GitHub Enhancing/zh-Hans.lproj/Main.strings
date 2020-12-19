@@ -1,0 +1,39 @@
+
+/* Class = "NSMenuItem"; title = "GitHub Enhancing"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "GitHub 增强";
+
+/* Class = "NSMenuItem"; title = "Quit GitHub Enhancing"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 GitHub 增强";
+
+/* Class = "NSMenuItem"; title = "About GitHub Enhancing"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于 GitHub 增强";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "GitHub Enhancing Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "GitHub 增强帮助";
+
+/* Class = "NSWindow"; title = "GitHub Enhancing"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "GitHub 增强";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "全部显示";
+
+/* Class = "NSMenuItem"; title = "Hide GitHub Enhancing"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "隐藏 GitHub 增强";
+
+/* Class = "NSButtonCell"; alternateTitle = "Install"; ObjectID = "Srx-0j-A4D"; */
+"Srx-0j-A4D.alternateTitle" = "安装";
+
+/* Class = "NSButtonCell"; title = "Quit and Open Safari Extensions Preferences…"; ObjectID = "Srx-0j-A4D"; */
+"Srx-0j-A4D.title" = "退出并打开 Safari 拓展设置...";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隐藏其他";
+
+/* Class = "NSMenu"; title = "GitHub Enhancing"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "GitHub 增强";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "帮助";
